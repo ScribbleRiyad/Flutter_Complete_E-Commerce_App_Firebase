@@ -41,7 +41,7 @@
 <img src="https://i.ibb.co/PwRfdzG/IMG-20220222-035425.jpg" width="500">
 <img src="https://i.ibb.co/6ypQ7tH/Screenshot-2022-10-01-19-56-30-64-feb0903b4bc75c569792b666d6104039-1.jpg" width="500">
 
-<img src="https://i.ibb.co/12gqtwV/IMG-20220222-035359-1.jpg" width="500">
+<img src="https://i.ibb.co/C9ZQJXB/IMG-20220222-035558.jpg" width="500">
 <img src="https://i.ibb.co/FzFrvJG/IMG-20220222-035636.jpg" width="500">
 <img src="https://i.ibb.co/tCQBpR4/IMG-20220222-035704.jpg" width="500">
 
