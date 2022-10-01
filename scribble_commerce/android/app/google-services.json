@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168425338165",
+    "project_id": "scribble-e-commerce",
+    "storage_bucket": "scribble-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168425338165:android:6ae113fbe97f190092087c",
+        "android_client_info": {
+          "package_name": "com.example.scribble_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168425338165-kcir7gt450v8h3alui5979l0hqaqib9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scribble_commerce",
+            "certificate_hash": "25f3c2f1cfc290373cf1a59885feef511c3a68db"
+          }
+        },
+        {
+          "client_id": "168425338165-1cai6ul0tcotan17c0lo5nakoh1d63es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrBND1RhLLfLIgCZxwAaVvqDiPNsSJvqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168425338165-1cai6ul0tcotan17c0lo5nakoh1d63es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
